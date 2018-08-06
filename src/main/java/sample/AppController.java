@@ -8,6 +8,6 @@ public class AppController {
 	@RequestMapping("/")
 	public String gettingStarted()
 	{
-	return "hello world";
+	return "hello Jenkins";
 	}
 }
