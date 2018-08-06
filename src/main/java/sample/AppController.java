@@ -8,6 +8,6 @@ public class AppController {
 	@RequestMapping("/")
 	public String gettingStarted()
 	{
-	return "Getting Started with Springboot Application deployed on PWS......";
+	return "hello world";
 	}
 }
